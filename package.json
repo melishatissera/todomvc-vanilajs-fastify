@@ -1,0 +1,24 @@
+{
+  "name": "todomvc-vanilajs-fastify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "npx fastify-cli start --watch --log-level info server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=8",
+    "yarn": ">=1.19"
+  },
+  "dependencies": {
+    "todomvc-app-css": "2.3.0",
+    "todomvc-common": "1.0.5"
+  },
+  "devDependencies": {
+    "fastify": "2.10.0",
+    "fastify-static": "2.5.0"
+  }
+}
