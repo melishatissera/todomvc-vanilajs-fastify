@@ -18,7 +18,7 @@
     "todomvc-common": "1.0.5"
   },
   "devDependencies": {
-    "fastify": "2.10.0",
+    "fastify": "3.1.1",
     "fastify-static": "2.5.0"
   }
 }
